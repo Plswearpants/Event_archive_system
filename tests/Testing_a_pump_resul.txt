@@ -1,0 +1,64 @@
+Title: Testing and Troubleshooting a Jet Pump
+
+Date: [Date of the experiment]
+
+Objective:
+
+Pre-Experiment: To determine the malfunction in a jet pump returned by a customer and demonstrate the proper functioning of a jet pump system.
+Context/Description: The jet pump in question was returned due to suspected issues. The experiment involved plumbing and electrically connecting the pump, priming it, and running diagnostics to identify the fault. The aim was to also educate on the critical components and setup of a jet pump system.
+Materials and Methods:
+
+Materials:
+Jet pump
+Foot valve
+PVC reinforced hose
+Quick connect cam lock fittings
+Electrical wiring tools
+Water
+Methods:
+Set up the pump on the workbench.
+Connect the inlet and discharge plumbing using quick connect cam lock fittings.
+Prime the pump by filling the inlet and pump volute with water.
+Connect the pump to a 230V electrical supply.
+Run the pump and observe its operation.
+Diagnose any audible or performance issues.
+Experimental Setup:
+Plumbing Setup: Connected the inlet with a PVC reinforced hose and cam lock fittings. Filled the suction line and pump volute with water to ensure proper priming.
+Electrical Setup: Wired the pump for a 230V connection, checking the voltage selector switch inside the pump. Ensured proper grounding and connections for testing purposes.
+Observations:
+
+Pump was successfully plumbed and primed.
+When the pump was run, an audible grinding noise was detected, indicative of an internal motor issue.
+The noise seemed to originate from the motor side, suggesting a possible internal defect or contamination with debris.
+No visible external leaks or issues with the impeller or seals were noted during the initial inspection.
+Results:
+
+The jet pump exhibited a significant grinding noise, likely due to internal motor issues.
+The pump was deemed not easily repairable on-site due to its new condition and internal motor problem.
+The decision was made to send the pump back to the factory for warranty repair rather than attempting in-house repairs.
+Conclusion:
+
+The jet pump's issue was traced to the internal motor, which is not easily serviceable on-site.
+For new pumps under warranty, it is more efficient to return them to the factory for repair rather than conducting extensive in-house diagnostics and repairs.
+Reflection:
+
+Post-Experiment:
+The troubleshooting process highlighted the importance of proper priming and voltage settings in jet pump operation.
+Identified the necessity for high-quality foot valves to prevent priming issues.
+Future tests should include a quick preliminary check for internal motor noise before proceeding with extensive diagnostics.
+Suggestions for Future Experiments:
+Implement a step to initially check for internal motor sounds before plumbing and full electrical setup.
+Consider developing a standardized checklist for diagnosing common jet pump issues.
+References:
+
+Transcription of "Testing a Pump" video​​
+Metadata:
+
+Project Name: Jet Pump Diagnostics
+Timestamp: [Timestamp of the experiment]
+Keywords: Jet pump, troubleshooting, foot valve, motor noise, priming, electrical connection
+Index: JP-DIAG-2024-07-16
+Compliance and Collaboration:
+
+Compliance: Followed standard safety protocols for electrical and plumbing work.
+Collaboration: Conducted by Chris from RC Worst; notes prepared for team review and customer service follow-up.

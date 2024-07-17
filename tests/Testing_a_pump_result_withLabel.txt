@@ -1,0 +1,72 @@
+Title: Testing and Troubleshooting a Jet Pump
+
+Date: [Date of the experiment]
+
+Objective:
+
+Pre-Experiment: To determine the malfunction in a jet pump returned by a customer and demonstrate the proper functioning of a jet pump system. [00:00.000 --> 00:11.480]
+Context/Description: The jet pump in question was returned due to suspected issues. The experiment involved plumbing and electrically connecting the pump, priming it, and running diagnostics to identify the fault. The aim was to also educate on the critical components and setup of a jet pump system. [00:00.000 --> 00:36.000]
+Materials and Methods:
+
+Materials:
+Jet pump [00:00.000 --> 00:17.800]
+Foot valve [00:55.920 --> 01:21.320]
+PVC reinforced hose [01:55.320 --> 02:05.520]
+Quick connect cam lock fittings [01:55.320 --> 02:05.520]
+Electrical wiring tools [04:27.040 --> 04:28.880]
+Water [02:05.520 --> 02:11.720]
+
+Methods:
+Set up the pump on the workbench. [00:17.800 --> 00:21.760]
+Connect the inlet and discharge plumbing using quick connect cam lock fittings. [01:55.320 --> 02:05.520]
+Prime the pump by filling the inlet and pump volute with water. [02:05.520 --> 02:20.640]
+Connect the pump to a 230V electrical supply. [05:01.060 --> 05:06.340]
+Run the pump and observe its operation. [08:28.480 --> 08:54.600]
+Diagnose any audible or performance issues. [09:09.040 --> 09:18.000]
+
+Experimental Setup:
+Plumbing Setup: Connected the inlet with a PVC reinforced hose and cam lock fittings. Filled the suction line and pump volute with water to ensure proper priming. [01:55.320 --> 02:20.640]
+Electrical Setup: Wired the pump for a 230V connection, checking the voltage selector switch inside the pump. Ensured proper grounding and connections for testing purposes. [05:01.060 --> 06:00.820]
+
+Observations:
+
+Pump was successfully plumbed and primed. [01:55.320 --> 02:20.640]
+When the pump was run, an audible grinding noise was detected, indicative of an internal motor issue. [09:09.040 --> 09:18.000]
+The noise seemed to originate from the motor side, suggesting a possible internal defect or contamination with debris. [09:09.040 --> 09:18.000]
+No visible external leaks or issues with the impeller or seals were noted during the initial inspection. [09:09.040 --> 09:18.000]
+
+Results:
+
+The jet pump exhibited a significant grinding noise, likely due to internal motor issues. [09:09.040 --> 09:18.000]
+The pump was deemed not easily repairable on-site due to its new condition and internal motor problem. [09:18.000 --> 09:35.360]
+The decision was made to send the pump back to the factory for warranty repair rather than attempting in-house repairs. [09:35.360 --> 09:58.700]
+
+Conclusion:
+
+The jet pump's issue was traced to the internal motor, which is not easily serviceable on-site. [09:09.040 --> 09:18.000]
+For new pumps under warranty, it is more efficient to return them to the factory for repair rather than conducting extensive in-house diagnostics and repairs. [09:35.360 --> 09:58.700]
+
+Reflection:
+
+Post-Experiment:
+The troubleshooting process highlighted the importance of proper priming and voltage settings in jet pump operation. [05:01.060 --> 05:06.340]
+Identified the necessity for high-quality foot valves to prevent priming issues. [00:55.920 --> 01:21.320]
+Future tests should include a quick preliminary check for internal motor noise before proceeding with extensive diagnostics. [09:09.040 --> 09:18.000]
+
+Suggestions for Future Experiments:
+Implement a step to initially check for internal motor sounds before plumbing and full electrical setup. [09:09.040 --> 09:18.000]
+Consider developing a standardized checklist for diagnosing common jet pump issues. [09:09.040 --> 09:18.000]
+
+References:
+
+Transcription of "Testing a Pump" video​​ [00:00.000 --> 10:12.820]
+Metadata:
+
+Project Name: Jet Pump Diagnostics
+Timestamp: [Timestamp of the experiment]
+Keywords: Jet pump, troubleshooting, foot valve, motor noise, priming, electrical connection
+Index: JP-DIAG-2024-07-16
+Compliance and Collaboration:
+
+Compliance: Followed standard safety protocols for electrical and plumbing work. [05:01.060 --> 06:00.820]
+Collaboration: Conducted by Chris from RC Worst; notes prepared for team review and customer service follow-up. [00:00.000 --> 10:12.820]

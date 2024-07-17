@@ -1,0 +1,144 @@
+[00:00.000 --> 00:11.480]  Hey, Chris with RC Worst here, and today we're taking a look at a jet pump that was returned
+[00:11.480 --> 00:12.480]  by a customer.
+[00:12.480 --> 00:15.760]  He mentioned that there may be something going on with this jet pump.
+[00:15.760 --> 00:17.800]  So we've got it out on the workbench today.
+[00:17.800 --> 00:21.760]  We're going to hook this thing up, do some troubleshooting and testing, determine what's
+[00:21.760 --> 00:27.320]  wrong with it, and in the process I figured I would just show you kind of some of the things
+[00:27.320 --> 00:32.240]  to look for in a properly functioning jet pump system.
+[00:32.240 --> 00:36.000]  So basically what we're going to do here is we're going to hook this thing up.
+[00:36.000 --> 00:37.440]  We've got the inlet plumbed up.
+[00:37.440 --> 00:40.520]  We've got the discharge, which it's a little bit loose because we've still got to prime
+[00:40.520 --> 00:41.520]  the pump.
+[00:41.520 --> 00:45.840]  So we're going to hook this up plumbing wise, and then we're going to hook this up electrically.
+[00:45.840 --> 00:49.480]  We're going to run the pump a little bit and see if we can't determine what's going wrong
+[00:49.480 --> 00:50.480]  with this thing.
+[00:50.480 --> 00:55.880]  So first thing I'll mention is when you're installing a jet pump, a properly functioning
+[00:55.920 --> 00:59.800]  foot valve is going to be extremely critical.
+[00:59.800 --> 01:04.280]  Basically the function that a foot valve serves is this sits on the bottom of your suction
+[01:04.280 --> 01:09.640]  line down in the water, well, lake, wherever you've got it installed, and this allows the
+[01:09.640 --> 01:14.760]  water to enter the foot valve, but it has a stopper in here that prevents the water
+[01:14.760 --> 01:16.560]  from flowing back out.
+[01:16.560 --> 01:21.320]  And what that does is it keeps water inside the pump so that when the pump turns on, it's
+[01:21.320 --> 01:25.000]  essentially able to get traction and move that water.
+[01:25.000 --> 01:31.000]  Without a foot valve, the volute here would be empty of water and the pumps aren't able
+[01:31.000 --> 01:32.440]  to pump air.
+[01:32.440 --> 01:35.920]  So it would just sit there and run and potentially damage your pump.
+[01:35.920 --> 01:41.340]  So I always recommend a good quality foot valve for these situations because it's extremely
+[01:41.340 --> 01:44.540]  critical to keeping your pump in good working order.
+[01:44.540 --> 01:49.320]  So we'll jump right into plumbing this thing up and then we'll get started with the electrical
+[01:49.320 --> 01:51.360]  and see if we can figure out what's going on.
+[01:51.360 --> 01:55.320]  So the first thing that I'm going to do is I'm going to hook up the inlet.
+[01:55.320 --> 01:59.920]  And what we have in our testing station for the inlet is just a quick connect cam lock
+[01:59.920 --> 02:05.520]  fitting with PVC reinforced hose material.
+[02:05.520 --> 02:09.720]  And basically what we're going to do is fill this completely with water, and we've got
+[02:09.720 --> 02:11.720]  a foot valve on the bottom of this.
+[02:11.720 --> 02:15.880]  And then we're going to go ahead and pour water into this portion of the pump.
+[02:15.880 --> 02:17.920]  And that's considered completely primed.
+[02:18.120 --> 02:20.640]  This is full of water and this is full of water.
+[02:20.640 --> 02:22.720]  We should be good to turn this thing on.
+[02:28.800 --> 02:35.000]  Now if you're fortunate enough to be in a situation where you have easy access to the
+[02:35.000 --> 02:40.760]  water and everything, it's a good idea to fill up your suction line and just hold it
+[02:40.760 --> 02:43.260]  there and watch it and see if the water level drops.
+[02:43.260 --> 02:46.440]  Just a quick easy way to make sure that your foot valve is working properly.
+[02:46.680 --> 02:50.040]  All right, so we've got the suction line completely filled with water.
+[02:50.040 --> 02:51.440]  We hooked it up.
+[02:51.440 --> 02:56.760]  We just had to prop it up on this bell reducer just to keep it from getting all wobbly on
+[02:56.760 --> 02:57.760]  us.
+[02:57.760 --> 03:06.680]  And now what we're going to do is before we put this discharge in here, we'll go ahead
+[03:06.680 --> 03:11.720]  and pour some water directly into the pump just to make sure that it's completely primed.
+[03:11.720 --> 03:17.040]  All right, using our high tech pitcher or filling device, whatever you want to call
+[03:17.040 --> 03:23.840]  it, just fill this thing up with some water here and we'll just dump this water right
+[03:23.840 --> 03:27.160]  on into the pump.
+[03:27.160 --> 03:32.680]  And you want to just fill this until it's completely full just to make life easier on
+[03:32.680 --> 03:33.680]  you.
+[03:33.680 --> 03:37.680]  All right, well now that we've got the pump completely full of water, you can see it's
+[03:37.680 --> 03:38.680]  very full.
+[03:39.080 --> 03:43.400]  We'll go ahead and install the discharge.
+[03:43.400 --> 03:48.800]  And we have a quick disconnect on that too, just because we're in our pump testing area
+[03:48.800 --> 03:49.800]  here.
+[03:49.800 --> 03:52.200]  You may need a wrench.
+[03:52.200 --> 03:58.720]  Usually when you're testing pumps, being extremely tight is not critical, whereas if it was a
+[03:58.720 --> 04:04.680]  permanent installation, I may take more time to tighten everything up a lot more snug and
+[04:04.680 --> 04:07.720]  be completely assured that there's not any leaks.
+[04:07.720 --> 04:14.480]  But in a testing situation, as long as you're not leaking like a sieve and losing your prime,
+[04:14.480 --> 04:15.480]  you're pretty much good.
+[04:15.480 --> 04:18.520]  We'll hook the discharge plumbing up here.
+[04:18.520 --> 04:22.920]  All right, so inlet, discharge installed, ready to test.
+[04:22.920 --> 04:27.040]  Now all we've got left to do is hook up the electrical and then we'll turn this pump on
+[04:27.040 --> 04:28.880]  and we'll see what it does.
+[04:28.880 --> 04:32.460]  All right, so here we are on the back end of the jet pump.
+[04:32.460 --> 04:35.500]  We're going to go ahead and wire up the pressure switch.
+[04:35.500 --> 04:40.900]  And while we're back here, I was going to figure I'd show you guys how to check that
+[04:40.900 --> 04:42.740]  we're set on the appropriate voltage.
+[04:42.740 --> 04:47.540]  So if you look right here, in most pumps they're going to have something similar.
+[04:47.540 --> 04:50.500]  Factory wired for 230 volt connection.
+[04:50.500 --> 04:57.820]  So what that means is this pump, along with many jet pumps out there, are able to run
+[04:57.820 --> 05:01.060]  on 230 or 120 volt.
+[05:01.060 --> 05:06.340]  And there's a switch just on the inside of this back plate here that I'll show you if
+[05:06.340 --> 05:09.420]  I can get this screw out.
+[05:09.420 --> 05:15.160]  Come on, there we go.
+[05:15.160 --> 05:20.460]  So they've got a call out pointing to it, 230 or 120.
+[05:20.460 --> 05:28.000]  All right, so on this one we have 230 and 115 volt marked right here.
+[05:28.000 --> 05:29.420]  And this one actually works differently.
+[05:29.740 --> 05:33.020]  Sometimes there's a little toggle switch or a little push button switch.
+[05:33.020 --> 05:36.700]  This one you actually pull it off and then plug it in.
+[05:36.700 --> 05:41.180]  This white arrow here lines up with wherever you plug it in.
+[05:41.180 --> 05:48.380]  So we're just going to leave it at 230 because that's fine for our testing and so forth.
+[05:48.380 --> 05:53.580]  So I just shove this back in right where it goes.
+[05:53.580 --> 05:54.580]  And that's 120.
+[05:54.580 --> 05:55.580]  Hold on.
+[05:56.380 --> 06:00.820]  There we go, so 230.
+[06:00.820 --> 06:02.480]  Easy as that.
+[06:02.480 --> 06:04.940]  So that's all there is to it.
+[06:04.940 --> 06:09.460]  So we'll go ahead and throw this back on real quick since we don't really need it off for
+[06:09.460 --> 06:10.460]  anything.
+[06:10.460 --> 06:15.980]  All right, throw the back plate on here, snug this up, and then we'll get to wiring the
+[06:15.980 --> 06:18.480]  pressure switch.
+[06:18.480 --> 06:23.100]  Now we may end up actually having to take this back off now that I think about it in
+[06:23.100 --> 06:24.860]  the event that we find something wrong.
+[06:24.860 --> 06:30.860]  And there's the capacitor in there that we can test to determine if there's something
+[06:30.860 --> 06:32.820]  bad.
+[06:32.820 --> 06:37.120]  So when it comes to hooking up your wiring, since we're going 230 volt, it doesn't really
+[06:37.120 --> 06:41.420]  matter what colors I hook to what sides.
+[06:41.420 --> 06:46.260]  So we basically just hook one to one side and one to the other side so that when these
+[06:46.260 --> 06:52.540]  contacts open and close, the power goes in through the electrical and then around the
+[06:52.540 --> 06:55.460]  contacts and then back down into the motor.
+[06:55.460 --> 06:56.460]  And that's basically how they work.
+[06:56.460 --> 06:59.080]  And we'll also hook up this ground lug on here.
+[06:59.080 --> 07:00.300]  So we'll do that real quick.
+[07:00.300 --> 07:05.980]  Now the last thing I'll mention is these are not the preferred type of connector.
+[07:05.980 --> 07:10.740]  I kind of like the forked connectors for this, but since they're already on this cable and
+[07:10.740 --> 07:14.420]  this is set up for our testing rig, we're just going to go ahead and use these.
+[07:22.540 --> 07:32.820]  Super easy.
+[07:32.820 --> 07:36.140]  Throw these underneath the contacts.
+[07:36.140 --> 07:42.620]  One nice thing about using these connectors is they're never going to just wiggle out.
+[07:42.620 --> 08:03.380]  They're pretty situated in there once you install them.
+[08:03.380 --> 08:04.380]  All right.
+[08:04.380 --> 08:08.820]  And you may have noticed that when I installed these, I didn't come through this little conduit
+[08:08.820 --> 08:09.820]  port.
+[08:10.020 --> 08:13.100]  Again, because we're testing, otherwise your lid won't go on.
+[08:13.100 --> 08:17.340]  So that's what this hole on the side of the pressure switch is for.
+[08:17.340 --> 08:21.340]  But since we're testing and I actually want to see this operate, I just hook it up kind
+[08:21.340 --> 08:24.600]  of the quick, easy or quick and dirty method.
+[08:24.600 --> 08:28.480]  So now we're ready to put power to this pump, run it, and see what it does.
+[08:54.600 --> 09:08.040]  Well, after running the pump, it definitely sounds like, oh, it scared me.
+[09:08.040 --> 09:09.040]  All right.
+[09:09.040 --> 09:13.000]  So after running the pump, there's definitely an audible kind of grinding noise.
+[09:13.000 --> 09:18.000]  It sounds like there's gravel or something, and it seems to be emanating from the motor
+[09:18.000 --> 09:20.640]  side of things.
+[09:20.680 --> 09:26.640]  So this pump, it doesn't sound like it's anything that's really repairable because it's internal
+[09:26.640 --> 09:28.440]  to the motor.
+[09:28.440 --> 09:32.880]  And yes, we probably could fix it, but it's a brand new pump.
+[09:32.880 --> 09:35.360]  Just got it from the factory not long ago.
+[09:35.360 --> 09:38.840]  So what we're going to do in this instance is just go ahead and send this to the factory
+[09:38.840 --> 09:41.960]  for warranty repair.
+[09:41.960 --> 09:48.060]  Now had it been in a broken impeller or something along those lines, we might have dug further
+[09:48.060 --> 09:52.820]  into it or a leaking seal, something easily replaceable.
+[09:52.820 --> 09:56.940]  But when it involves spending a bunch of time tearing apart a motor that's under warranty,
+[09:56.940 --> 09:58.700]  it just doesn't make a lot of sense.
+[09:58.700 --> 10:01.420]  So we'll go ahead and send this off and get it taken care of.
+[10:01.420 --> 10:02.820]  Hey, so that's it.
+[10:02.820 --> 10:05.460]  So thanks for joining us today on another great video.
+[10:05.460 --> 10:09.020]  Don't forget, you can find all these products on rcworse.com.
+[10:09.020 --> 10:12.140]  Don't forget also to like and subscribe for more content.
+[10:12.140 --> 10:12.820]  We'll see you next time.

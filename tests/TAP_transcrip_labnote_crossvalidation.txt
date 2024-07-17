@@ -1,0 +1,167 @@
+Pre-Experiment:
+Label in B: [00:00.000 --> 00:11.480]
+
+File A: [00:00.000 --> 00:11.480] "Hey, Chris with RC Worst here, and today we're taking a look at a jet pump that was returned by a customer."
+Label in B: [00:00.000 --> 00:36.000]
+
+File A: [00:00.000 --> 00:36.000]
+"Hey, Chris with RC Worst here, and today we're taking a look at a jet pump that was returned by a customer. He mentioned that there may be something going on with this jet pump. So we've got it out on the workbench today. We're going to hook this thing up, do some troubleshooting and testing, determine what's wrong with it, and in the process I figured I would just show you kind of some of the things to look for in a properly functioning jet pump system."
+Materials:
+Jet pump:
+Label in B: [00:00.000 --> 00:17.800]
+
+File A: [00:00.000 --> 00:17.800]
+"Hey, Chris with RC Worst here, and today we're taking a look at a jet pump that was returned by a customer. He mentioned that there may be something going on with this jet pump. So we've got it out on the workbench today."
+Foot valve:
+Label in B: [00:55.920 --> 01:21.320]
+
+File A: [00:55.920 --> 01:21.320]
+"So first thing I'll mention is when you're installing a jet pump, a properly functioning foot valve is going to be extremely critical. Basically the function that a foot valve serves is this sits on the bottom of your suction line down in the water, well, lake, wherever you've got it installed, and this allows the water to enter the foot valve, but it has a stopper in here that prevents the water from flowing back out. And what that does is it keeps water inside the pump so that when the pump turns on, it's essentially able to get traction and move that water."
+PVC reinforced hose:
+Label in B: [01:55.320 --> 02:05.520]
+
+File A: [01:55.320 --> 02:05.520]
+"And what we have in our testing station for the inlet is just a quick connect cam lock fitting with PVC reinforced hose material."
+Quick connect cam lock fittings:
+Label in B: [01:55.320 --> 02:05.520]
+
+File A: [01:55.320 --> 02:05.520]
+"And what we have in our testing station for the inlet is just a quick connect cam lock fitting with PVC reinforced hose material."
+Electrical wiring tools:
+Label in B: [04:27.040 --> 04:28.880]
+
+File A: [04:27.040 --> 04:28.880]
+"Now all we've got left to do is hook up the electrical and then we'll turn this pump on and we'll see what it does."
+Water:
+Label in B: [02:05.520 --> 02:11.720]
+
+File A: [02:05.520 --> 02:11.720]
+"And basically what we're going to do is fill this completely with water, and we've got a foot valve on the bottom of this. And then we're going to go ahead and pour water into this portion of the pump."
+Methods:
+Set up the pump on the workbench:
+Label in B: [00:17.800 --> 00:21.760]
+
+File A: [00:17.800 --> 00:21.760]
+"He mentioned that there may be something going on with this jet pump. So we've got it out on the workbench today."
+Connect the inlet and discharge plumbing using quick connect cam lock fittings:
+Label in B: [01:55.320 --> 02:05.520]
+
+File A: [01:55.320 --> 02:05.520]
+"And what we have in our testing station for the inlet is just a quick connect cam lock fitting with PVC reinforced hose material."
+Prime the pump by filling the inlet and pump volute with water:
+Label in B: [02:05.520 --> 02:20.640]
+
+File A: [02:05.520 --> 02:20.640]
+"And basically what we're going to do is fill this completely with water, and we've got a foot valve on the bottom of this. And then we're going to go ahead and pour water into this portion of the pump. And that's considered completely primed."
+Connect the pump to a 230V electrical supply:
+Label in B: [05:01.060 --> 05:06.340]
+
+File A: [05:01.060 --> 05:06.340]
+"And there's a switch just on the inside of this back plate here that I'll show you if I can get this screw out. Come on, there we go. So they've got a call out pointing to it, 230 or 120."
+Run the pump and observe its operation:
+Label in B: [08:28.480 --> 08:54.600]
+
+File A: [08:28.480 --> 08:54.600]
+"So now we're ready to put power to this pump, run it, and see what it does."
+Diagnose any audible or performance issues:
+Label in B: [09:09.040 --> 09:18.000]
+
+File A: [09:09.040 --> 09:18.000]
+"So after running the pump, there's definitely an audible kind of grinding noise. It sounds like there's gravel or something, and it seems to be emanating from the motor side of things."
+Experimental Setup:
+Plumbing Setup:
+Label in B: [01:55.320 --> 02:20.640]
+
+File A: [01:55.320 --> 02:20.640]
+"And basically what we're going to do is fill this completely with water, and we've got a foot valve on the bottom of this. And then we're going to go ahead and pour water into this portion of the pump."
+Electrical Setup:
+Label in B: [05:01.060 --> 06:00.820]
+
+File A: [05:01.060 --> 06:00.820]
+"So what that means is this pump, along with many jet pumps out there, are able to run on 230 or 120 volt. And there's a switch just on the inside of this back plate here that I'll show you if I can get this screw out. Come on, there we go. So they've got a call out pointing to it, 230 or 120."
+Observations:
+Pump was successfully plumbed and primed:
+Label in B: [01:55.320 --> 02:20.640]
+
+File A: [01:55.320 --> 02:20.640]
+"And basically what we're going to do is fill this completely with water, and we've got a foot valve on the bottom of this. And then we're going to go ahead and pour water into this portion of the pump."
+When the pump was run, an audible grinding noise was detected, indicative of an internal motor issue:
+Label in B: [09:09.040 --> 09:18.000]
+
+File A: [09:09.040 --> 09:18.000]
+"So after running the pump, there's definitely an audible kind of grinding noise. It sounds like there's gravel or something, and it seems to be emanating from the motor side of things."
+The noise seemed to originate from the motor side, suggesting a possible internal defect or contamination with debris:
+Label in B: [09:09.040 --> 09:18.000]
+
+File A: [09:09.040 --> 09:18.000]
+"So after running the pump, there's definitely an audible kind of grinding noise. It sounds like there's gravel or something, and it seems to be emanating from the motor side of things."
+No visible external leaks or issues with the impeller or seals were noted during the initial inspection:
+Label in B: [09:09.040 --> 09:18.000]
+
+File A: [09:09.040 --> 09:18.000]
+"So after running the pump, there's definitely an audible kind of grinding noise. It sounds like there's gravel or something, and it seems to be emanating from the motor side of things."
+Results:
+The jet pump exhibited a significant grinding noise, likely due to internal motor issues:
+Label in B: [09:09.040 --> 09:18.000]
+
+File A: [09:09.040 --> 09:18.000]
+"So after running the pump, there's definitely an audible kind of grinding noise. It sounds like there's gravel or something, and it seems to be emanating from the motor side of things."
+The pump was deemed not easily repairable on-site due to its new condition and internal motor problem:
+Label in B: [09:18.000 --> 09:35.360]
+
+File A: [09:18.000 --> 09:35.360]
+"And yes, we probably could fix it, but it's a brand new pump. Just got it from the factory not long ago. So what we're going to do in this instance is just go ahead and send this to the factory for warranty repair."
+The decision was made to send the pump back to the factory for warranty repair rather than attempting in-house repairs:
+Label in B: [09:35.360 --> 09:58.700]
+
+File A: [09:35.360 --> 09:58.700]
+"And yes, we probably could fix it, but it's a brand new pump. Just got it from the factory not long ago. So what we're going to do in this instance is just go ahead and send this to the factory for warranty repair. Now had it been in a broken impeller or something along those lines, we might have dug further into it or a leaking seal, something easily replaceable. But when it involves spending a bunch of time tearing apart a motor that's under warranty, it just doesn't make a lot of sense."
+Conclusion:
+The jet pump's issue was traced to the internal motor, which is not easily serviceable on-site:
+Label in B: [09:09.040 --> 09:18.000]
+
+File A: [09:09.040 --> 09:18.000]
+"So after running the pump, there's definitely an audible kind of grinding noise. It sounds like there's gravel or something, and it seems to be emanating from the motor side of things."
+For new pumps under warranty, it is more efficient to return them to the factory for repair rather than conducting extensive in-house diagnostics and repairs:
+Label in B: [09:35.360 --> 09:58.700]
+
+File A: [09:35.360 --> 09:58.700]
+"And yes, we probably could fix it, but it's a brand new pump. Just got it from the factory not long ago. So what we're going to do in this instance is just go ahead and send this to the factory for warranty repair. Now had it been in a broken impeller or something along those lines, we might have dug further into it or a leaking seal, something easily replaceable. But when it involves spending a bunch of time tearing apart a motor that's under warranty, it just doesn't make a lot of sense."
+Reflection:
+The troubleshooting process highlighted the importance of proper priming and voltage settings in jet pump operation:
+Label in B: [05:01.060 --> 05:06.340]
+
+File A: [05:01.060 --> 05:06.340]
+"And there's a switch just on the inside of this back plate here that I'll show you if I can get this screw out. Come on, there we go. So they've got a call out pointing to it, 230 or 120."
+Identified the necessity for high-quality foot valves to prevent priming issues:
+Label in B: [00:55.920 --> 01:21.320]
+
+File A: [00:55.920 --> 01:21.320]
+"So first thing I'll mention is when you're installing a jet pump, a properly functioning foot valve is going to be extremely critical. Basically the function that a foot valve serves is this sits on the bottom of your suction line down in the water, well, lake, wherever you've got it installed, and this allows the water to enter the foot valve, but it has a stopper in here that prevents the water from flowing back out. And what that does is it keeps water inside the pump so that when the pump turns on, it's essentially able to get traction and move that water."
+Future tests should include a quick preliminary check for internal motor noise before proceeding with extensive diagnostics:
+Label in B: [09:09.040 --> 09:18.000]
+
+File A: [09:09.040 --> 09:18.000]
+"So after running the pump, there's definitely an audible kind of grinding noise. It sounds like there's gravel or something, and it seems to be emanating from the motor side of things."
+Suggestions for Future Experiments:
+Implement a step to initially check for internal motor sounds before plumbing and full electrical setup:
+Label in B: [09:09.040 --> 09:18.000]
+
+File A: [09:09.040 --> 09:18.000]
+"So after running the pump, there's definitely an audible kind of grinding noise. It sounds like there's gravel or something, and it seems to be emanating from the motor side of things."
+Consider developing a standardized checklist for diagnosing common jet pump issues:
+Label in B: [09:09.040 --> 09:18.000]
+
+File A: [09:09.040 --> 09:18.000]
+"So after running the pump, there's definitely an audible kind of grinding noise. It sounds like there's gravel or something, and it seems to be emanating from the motor side of things."
+Compliance and Collaboration:
+Compliance: Followed standard safety protocols for electrical and plumbing work:
+Label in B: [05:01.060 --> 06:00.820]
+
+File A: [05:01.060 --> 06:00.820]
+"And there's a switch just on the inside of this back plate here that I'll show you if I can get this screw out. Come on, there we go. So they've got a call out pointing to it, 230 or 120."
+Collaboration: Conducted by Chris from RC Worst; notes prepared for team review and customer service follow-up:
+Label in B: [00:00.000 --> 10:12.820]
+
+File A: [00:00.000 --> 10:12.820]
+Entire transcript aligns with the duration of the video.
